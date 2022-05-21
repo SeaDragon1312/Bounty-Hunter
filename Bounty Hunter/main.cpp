@@ -264,10 +264,10 @@ int pause()
     remuse_button_pressed.setRect(SCREEN_WIDTH*0.5-100, SCREEN_HEIGHT*0.5-150);
 
     ret = exit_button.LoadImg("img/button/exit.png", g_screen);
-    exit_button.setRect(SCREEN_WIDTH*0.5-100, SCREEN_HEIGHT*0.5-50);
+    exit_button.setRect(SCREEN_WIDTH*0.5-100, SCREEN_HEIGHT*0.5);
 
     ret = exit_button_pressed.LoadImg("img/button/exit_pressed.png", g_screen);
-    exit_button_pressed.setRect(SCREEN_WIDTH*0.5-100, SCREEN_HEIGHT*0.5-50);
+    exit_button_pressed.setRect(SCREEN_WIDTH*0.5-100, SCREEN_HEIGHT*0.5);
 
     bool quit = false;
     while(!quit)

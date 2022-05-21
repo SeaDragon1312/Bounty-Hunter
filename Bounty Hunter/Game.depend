@@ -122,3 +122,112 @@
 	"BaseObject.h"
 	"TextObject.h"
 
+1653111618 source:e:\du an game cuoi ky\bounty hunter\baseobject.cpp
+	"BaseObject.h"
+	"stdafx.h"
+
+1652763592 e:\du an game cuoi ky\bounty hunter\baseobject.h
+	"common.h"
+
+1652981460 e:\du an game cuoi ky\bounty hunter\common.h
+	<iostream>
+	<windows.h>
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1539998542 e:\du an game cuoi ky\bounty hunter\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1539998542 e:\du an game cuoi ky\bounty hunter\targetver.h
+	<SDKDDKVer.h>
+
+1652866098 source:e:\du an game cuoi ky\bounty hunter\bulletobject.cpp
+	"stdafx.h"
+	"BulletObject.h"
+
+1652866085 e:\du an game cuoi ky\bounty hunter\bulletobject.h
+	"BaseObject.h"
+	"common.h"
+
+1652880245 source:e:\du an game cuoi ky\bounty hunter\common.cpp
+	"common.h"
+	"stdafx.h"
+
+1652264926 source:e:\du an game cuoi ky\bounty hunter\explosion.cpp
+	"stdafx.h"
+	"Explosion.h"
+
+1652262897 e:\du an game cuoi ky\bounty hunter\explosion.h
+	"common.h"
+	"BaseObject.h"
+
+1652379834 source:e:\du an game cuoi ky\bounty hunter\game_map.cpp
+	"stdafx.h"
+	"Game_map.h"
+
+1651641771 e:\du an game cuoi ky\bounty hunter\game_map.h
+	"common.h"
+	"BaseObject.h"
+	<fstream>
+
+1651076078 source:e:\du an game cuoi ky\bounty hunter\imptimer.cpp
+	"stdafx.h"
+	"ImpTimer.h"
+	"common.h"
+
+1651074478 e:\du an game cuoi ky\bounty hunter\imptimer.h
+
+1652866138 source:e:\du an game cuoi ky\bounty hunter\mainobject.cpp
+	"stdafx.h"
+	"MainObject.h"
+
+1652709903 e:\du an game cuoi ky\bounty hunter\mainobject.h
+	"common.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1652529324 source:e:\du an game cuoi ky\bounty hunter\playerpower.cpp
+	"stdafx.h"
+	"PlayerPower.h"
+
+1652529247 e:\du an game cuoi ky\bounty hunter\playerpower.h
+	"common.h"
+	"BaseObject.h"
+
+1539998542 source:e:\du an game cuoi ky\bounty hunter\stdafx.cpp
+	"stdafx.h"
+
+1652629360 source:e:\du an game cuoi ky\bounty hunter\textobject.cpp
+	"stdafx.h"
+	"TextObject.h"
+
+1652627858 e:\du an game cuoi ky\bounty hunter\textobject.h
+	"common.h"
+
+1652774274 source:e:\du an game cuoi ky\bounty hunter\threatsobject.cpp
+	"stdafx.h"
+	"ThreatsObject.h"
+
+1652773837 e:\du an game cuoi ky\bounty hunter\threatsobject.h
+	"common.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1653143912 source:e:\du an game cuoi ky\bounty hunter\main.cpp
+	"stdafx.h"
+	"common.h"
+	"BaseObject.h"
+	"Game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"Explosion.h"
+	"TextObject.h"
+	"PlayerPower.h"
+
