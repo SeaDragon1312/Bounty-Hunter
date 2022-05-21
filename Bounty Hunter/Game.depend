@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1653143596 source:e:\du an game cuoi ky\game ban nhau\main.cpp
+	"stdafx.h"
+	"common.h"
+	"BaseObject.h"
+	"Game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"Explosion.h"
+	"TextObject.h"
+	"PlayerPower.h"
+
+1539998542 e:\du an game cuoi ky\game ban nhau\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1539998542 e:\du an game cuoi ky\game ban nhau\targetver.h
+	<SDKDDKVer.h>
+
+1652880245 source:e:\du an game cuoi ky\game ban nhau\common.cpp
+	"common.h"
+	"stdafx.h"
+
+1652981460 e:\du an game cuoi ky\game ban nhau\common.h
+	<iostream>
+	<windows.h>
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1653111618 source:e:\du an game cuoi ky\game ban nhau\baseobject.cpp
+	"BaseObject.h"
+	"stdafx.h"
+
+1652763592 e:\du an game cuoi ky\game ban nhau\baseobject.h
+	"common.h"
+
+1539998542 source:e:\du an game cuoi ky\game ban nhau\stdafx.cpp
+	"stdafx.h"
+
+1652379834 source:e:\du an game cuoi ky\game ban nhau\game_map.cpp
+	"stdafx.h"
+	"Game_map.h"
+
+1651641771 e:\du an game cuoi ky\game ban nhau\game_map.h
+	"common.h"
+	"BaseObject.h"
+	<fstream>
+
+1652709903 e:\du an game cuoi ky\game ban nhau\mainobject.h
+	"common.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1652866138 source:e:\du an game cuoi ky\game ban nhau\mainobject.cpp
+	"stdafx.h"
+	"MainObject.h"
+
+1651076078 source:e:\du an game cuoi ky\game ban nhau\imptimer.cpp
+	"stdafx.h"
+	"ImpTimer.h"
+	"common.h"
+
+1651074478 e:\du an game cuoi ky\game ban nhau\imptimer.h
+
+1652866098 source:e:\du an game cuoi ky\game ban nhau\bulletobject.cpp
+	"stdafx.h"
+	"BulletObject.h"
+
+1652866085 e:\du an game cuoi ky\game ban nhau\bulletobject.h
+	"BaseObject.h"
+	"common.h"
+
+1652774274 source:e:\du an game cuoi ky\game ban nhau\threatsobject.cpp
+	"stdafx.h"
+	"ThreatsObject.h"
+
+1652773837 e:\du an game cuoi ky\game ban nhau\threatsobject.h
+	"common.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1652264926 source:e:\du an game cuoi ky\game ban nhau\explosion.cpp
+	"stdafx.h"
+	"Explosion.h"
+
+1652262897 e:\du an game cuoi ky\game ban nhau\explosion.h
+	"common.h"
+	"BaseObject.h"
+
+1652629360 source:e:\du an game cuoi ky\game ban nhau\textobject.cpp
+	"stdafx.h"
+	"TextObject.h"
+
+1652627858 e:\du an game cuoi ky\game ban nhau\textobject.h
+	"common.h"
+
+1652529247 e:\du an game cuoi ky\game ban nhau\playerpower.h
+	"common.h"
+	"BaseObject.h"
+
+1652529324 source:e:\du an game cuoi ky\game ban nhau\playerpower.cpp
+	"stdafx.h"
+	"PlayerPower.h"
+
+1652625091 source:e:\du an game cuoi ky\game ban nhau\bossobject.cpp
+	"stdafx.h"
+	"BossObject.h"
+
+1652624938 e:\du an game cuoi ky\game ban nhau\bossobject.h
+	"BaseObject.h"
+	"common.h"
+	"BulletObject.h"
+
+1652873722 e:\du an game cuoi ky\game ban nhau\menu.h
+	"common.h"
+	"BaseObject.h"
+	"TextObject.h"
+

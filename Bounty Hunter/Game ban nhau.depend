@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650472854 source:e:\du an game cuoi ky\game ban nhau\main.cpp
+	<iostream>
+	"stdafx.h"
+
+1539998542 e:\du an game cuoi ky\game ban nhau\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1539998542 e:\du an game cuoi ky\game ban nhau\targetver.h
+	<SDKDDKVer.h>
+
