@@ -29,7 +29,7 @@ Sử dụng C/C++ và các thư viện [SDL2](https://www.libsdl.org/), [SDL_mix
   - Nhân vật chính, bản đồ và quái
   - Bắn trúng quái thì quái sẽ phát nổ
   - Chạm vào quái, đạn của quái hoặc rơi xuống vực sẽ mất 1 mạng
-  - Có 3 nút bên dưới màn hình là pause, music và tutorial, tứng phím sẽ cho chức năng tương ứng
+  - Có 3 nút bên dưới màn hình là pause, music và tutorial, từng phím sẽ cho chức năng tương ứng
   <img src="https://drive.google.com/file/d/1ecR3g2mkjVnbjdC4EOT-4SatbgU_-tWf/view?usp=sharing">
 - 3. Màn hình pause
   - Có 2 nút là remuse để tiếp tục hoặc exit để thoát
