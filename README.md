@@ -24,19 +24,19 @@ Sử dụng C/C++ và các thư viện [SDL2](https://www.libsdl.org/), [SDL_mix
 ## 3. Mô tả các chức năng đã cài đặt
 - 1. Màn hình menu:
   - Có 2 nút Play và Exit, nhấn Play để chơi và Exit để thoát
-  <img src="https://drive.google.com/file/d/1EVkWl-oqFE7_jLb_7i1gYElaysgqspiE/view?usp=sharing">
+  ![Bounty Hunter 1](https://user-images.githubusercontent.com/98462569/169693085-0e1a752e-e540-47cd-90ad-6ea0f7eb7aa6.png)
 - 2. Màn hình chơi:
   - Nhân vật chính, bản đồ và quái
   - Bắn trúng quái thì quái sẽ phát nổ
   - Chạm vào quái, đạn của quái hoặc rơi xuống vực sẽ mất 1 mạng
   - Có 3 nút bên dưới màn hình là pause, music và tutorial, từng phím sẽ cho chức năng tương ứng
-  <img src="https://drive.google.com/file/d/1ecR3g2mkjVnbjdC4EOT-4SatbgU_-tWf/view?usp=sharing">
+  ![Bounty Hunter 2](https://user-images.githubusercontent.com/98462569/169693096-b4b54aa0-0df4-483c-930b-d8a81360f062.png)
 - 3. Màn hình pause
   - Có 2 nút là remuse để tiếp tục hoặc exit để thoát
 - 4. Màn hình tutorial
   - Hiện ra hướng dẫn chơi game
   - Continue để tiếp tục
-  <img src="https://drive.google.com/file/d/1Uddb9KkurYRgMYw0c8z-ZgrTPujF2QLe/view?usp=sharing">
+  ![Bounty Hunter 3](https://user-images.githubusercontent.com/98462569/169693099-9cb4b25f-786e-4cce-a5f8-2a88871b9864.png)
 - Link youtube : 
 
 ## 4. Các kỹ thuật lập trình được sử dụng trong chương trình:
