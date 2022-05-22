@@ -3,6 +3,8 @@
 
 Sử dụng C/C++ và các thư viện [SDL2](https://www.libsdl.org/), [SDL_mixer](https://www.libsdl.org/projects/SDL_mixer/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/) và [SDL_image](https://www.libsdl.org/projects/SDL_image/)
 
+ Link youtube: https://youtu.be/c-XvcP0lDGs
+
 ## 1. Hướng dẫn cài đặt
 - Chương trình sử dụng các file project của Code::Blocks.
 - Hãy chắc chắn rằng bạn đã tải đầy đủ Code::Blocks, Mingw và các thư viện SDL2, SDL_image, SDL_ttf, SDL_mixer bản tương thích với thiết bị được sử dụng.
@@ -37,7 +39,7 @@ Sử dụng C/C++ và các thư viện [SDL2](https://www.libsdl.org/), [SDL_mix
   - Hiện ra hướng dẫn chơi game
   - Continue để tiếp tục
   ![Bounty Hunter 3](https://user-images.githubusercontent.com/98462569/169693099-9cb4b25f-786e-4cce-a5f8-2a88871b9864.png)
-- Link youtube : 
+- Link youtube : https://youtu.be/c-XvcP0lDGs
 
 ## 4. Các kỹ thuật lập trình được sử dụng trong chương trình:
 - Đồ họa SDL
