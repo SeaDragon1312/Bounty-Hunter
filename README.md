@@ -15,7 +15,7 @@ Sử dụng C/C++ và các thư viện [SDL2](https://www.libsdl.org/), [SDL_mix
  - Chạy chương trình:
     - Chọn Build/Rebuild trên thanh điều khiển (hoặc ấn Ctrl-F11), nếu không thành công hãy thử khởi động lại Code::Blocks hoặc kiểm tra lại các thao tác.
     - Sau khi build thành công thì chương trình có thể chạy.
- - Lưu ý: Các tệp, thư mục nằm trong tệp WOLFLY bắt buộc phải có và không được thay đổi để chương trình không phát sinh lỗi khi chạy. Chức năng cụ thể đã được chú thích trong từng tệp.
+ - Lưu ý: Các tệp, thư mục nằm trong tệp Bounty Hunter bắt buộc phải có và không được thay đổi để chương trình không phát sinh lỗi khi chạy. Chức năng cụ thể đã được chú thích trong từng tệp.
  
  ## 2. Mô tả chung về trò chơi
  - Trong trò chơi, bạn nhập vai 1 thợ săn tiền thưởng, vượt qua các chướng ngại vật và quái vật để thu thập đủ 30 đồng vàng
